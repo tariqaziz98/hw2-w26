@@ -44,6 +44,8 @@ div {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
+    border-top: 0;
+    border-right: 0;
     border-bottom: 2px solid #ffffff;
     border-left: 5px solid #ffffff;
 }
@@ -52,8 +54,10 @@ div {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px solid #ffffff;
     border-top: 2px solid #ffffff;
+    border-right: 5px solid #ffffff;
+    border-bottom: 0;
+    border-left: 0;
 }
 
 .blue h1,
@@ -66,6 +70,8 @@ div {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
+    border-top: 0;
+    border-right: 0;
     border-bottom: 2px solid #ffffff;
     border-left: 5px solid #ffffff;
 }
@@ -82,8 +88,10 @@ div {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px solid #ffffff;
     border-top: 2px solid #ffffff;
+    border-right: 5px solid #ffffff;
+    border-bottom: 0;
+    border-left: 0;
 }
 
 footer {
